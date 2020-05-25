@@ -1,6 +1,6 @@
 {
   "name": "marko-script-tag-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader to remove <script> tags from a marko file",
   "main": "index.js",
   "scripts": {
